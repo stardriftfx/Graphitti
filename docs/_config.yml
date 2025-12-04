@@ -3,5 +3,10 @@ theme: jekyll-theme-slate
 title: Graphitti
 description: A project to facilitate construction of high-performance neural simulations
 
+<<<<<<< HEAD
 
 show_downloads: false
+=======
+mermaid: true
+show_downloads: false
+>>>>>>> cdd6e6d25b20eec1fd21056f8d213eab95e9058f
