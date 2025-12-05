@@ -1,1 +1,18 @@
-docs/DoNotIncludeMe.txt
+docs/Gemfile
+docs/Gemfile.lock
+# Jekyll generated files and directories
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass cache
+.sass-cache/
+
+# Bundler dependencies
+bundle/
+vendor/
+
+# Operating system and editor specific files
+.DS_Store
+*.swp
+*.swo

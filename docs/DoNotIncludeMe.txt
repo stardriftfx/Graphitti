@@ -1,0 +1,10 @@
+(See: https://jekyllrb.com/docs/installation/ubuntu/)
+
+
+in project directory:
+bundle init 
+bundle install
+
+To run server locally:
+
+bundle exec jekyll server
